@@ -62,6 +62,11 @@ Notebook: `02_eda_and_visualization.ipynb`
 ##  Key Findings (Current Progress)
 
 - PS2 shows the highest global sales.
+
+## 📊 Example Visualization
+
+![Platform Sales](images/paltform_visualization.png)
+
 - Several platforms such as X360, PS3, Wii, and DS show medium-level sales performance.
 - Platform lifecycle duration does not always correlate with highest sales.
 
